@@ -121,7 +121,7 @@ Compare the effectiveness of different Meta ad formats.
 
 ### 🖼️ Dashboard Preview
 
-![Meta Ad Performance Dashboard](dashboard_preview.png)
+<img width="1387" height="791" alt="Screenshot 2026-05-28 161732" src="https://github.com/user-attachments/assets/d16f6c2d-3c60-4576-b73d-30235a81ec18" />
 
 ---
 
